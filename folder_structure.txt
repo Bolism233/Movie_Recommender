@@ -1,0 +1,11 @@
+# Folder Structure Explained
+
+## Front End
+- index.html (home page)
+- styles (css files)
+- scripts (javascript files)
+
+## Back End
+ - api_interaction (code used to send requests and manipulate API data)
+ - data_routes (code used to send info from database to front end)
+ - database (code used to construct database send data from API) 
